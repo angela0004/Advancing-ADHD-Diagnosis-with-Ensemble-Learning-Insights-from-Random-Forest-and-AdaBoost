@@ -1,2 +1,3 @@
-# Advancing-ADHD-Diagnosis-with-Ensemble-Learning-Insights-from-Random-Forest-and-AdaBoost
-Improving ADHD diagnosis using Random Forest and AdaBoost ensemble learning methods.
+# Multi-Domain EEG Fusion and Hybrid Ensembles for ADHD Subtype Intelligence
+ Developed an EEG-based machine learning framework for multiclass ADHD subtype classification, including Inattentive,
+Hyperactive-Impulsive, Combined ADHD, and Control groups.
